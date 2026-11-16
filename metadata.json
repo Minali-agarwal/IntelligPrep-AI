@@ -1,0 +1,6 @@
+{
+  "name": "IntelliPrep AI",
+  "description": "AI-powered interview preparation platform with resume analysis, job description skill-gap matching, technical and behavioral mock interviews, and performance analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
